@@ -8,7 +8,7 @@ pre version
 - how and where to display peices left/ peices finished
 - sudo code
 
-v 0.0.0
+v 0.0.1
 - code compiles GOOD JOB :)
 
 v 0.1.0
